@@ -274,8 +274,10 @@ header.masthead .intro-text .intro-heading {
 	text-align: center
 }
 .portfolio-modal .modal-content h2 {
-	font-size: 3em;
+	font-size: 1.5em;
 	margin-bottom: 15px
+	/* font-size: 3em;
+	margin-bottom: 15px */
 }
 .portfolio-modal .modal-content p {
 	margin-bottom: 30px
